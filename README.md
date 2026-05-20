@@ -47,6 +47,7 @@ Chrome extensions simplify the development process by providing powerful tools r
 ## Web Testing Extensions  
 - **[BugBug](https://bugbug.io)**: Record and execute automated web tests directly from Chrome.  
 - **[axe DevTools](https://www.deque.com/axe/)**: Comprehensive accessibility testing tool for developers.  
+- **[FillForge](https://konabayev.com/fillforge/)**: Generate realistic form data and fill QA test forms from the browser.  
 - **[WAVE](https://wave.webaim.org/)**: Accessibility evaluation tool for ensuring compliance with web standards.  
 - **[Ghost Inspector](https://ghostinspector.com/)**: Automate website testing and monitoring.  
 - **[Checkbot](https://www.checkbot.io/)**: SEO, performance, and security testing in one extension.
@@ -98,4 +99,3 @@ Chrome extensions simplify the development process by providing powerful tools r
 - **[Pesticide](https://chrome.google.com/webstore/detail/pesticide/)**: Highlight CSS boundaries for debugging layout issues.
 
 ---
-
