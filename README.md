@@ -66,6 +66,7 @@ Chrome extensions simplify the development process by providing powerful tools r
 - **[Privacy Badger](https://privacybadger.org/)**: Analyze and block tracking scripts.  
 - **[Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/)**: Access SSH terminals securely.  
 - **[HTTP Security Header Checker](https://chrome.google.com/webstore/detail/http-security-header-chec/)**: Test HTTP security headers on any website.  
+- **[PrivacyScrubber](https://privacyscrubber.com)**: 100% client-side, zero-trust PII sanitizer for AI workflows.
 
 ---
 
