@@ -87,7 +87,7 @@ Chrome extensions simplify the development process by providing powerful tools r
 
 ## Learning and Reference Extensions  
 - **[DevDocs](https://devdocs.io/)**: Access offline documentation for programming languages.  
-- **[Stack Overflow Quick Search](https://chrome.google.com/webstore/detail/stack-overflow-quick-sear/)**: Search Stack Overflow right from your toolbar.  
+- **[SummarizAI](https://summarizai.ink)**: AI summary, chapters, chat, and Study flashcards on YouTube watch pages for learning from lectures. - **[Stack Overflow Quick Search](https://chrome.google.com/webstore/detail/stack-overflow-quick-sear/)**: Search Stack Overflow right from your toolbar.  
 - **[Wappalyzer](https://www.wappalyzer.com/)**: Identify technologies used on a website.
 
 ---
